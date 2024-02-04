@@ -14,6 +14,10 @@ export default function Fruits() {
       name: "Banana",
       price: 5.0,
     },
+    {
+      name: "Grape",
+      price: 6.0,
+    },
   ];
 
   return (
