@@ -13,3 +13,18 @@
 .line {
   border: 1px solid #f0f0f0;
 }
+
+.deleteButton {
+  float: right;
+  padding: 12px 20px;
+  border: none;
+  background-color: #f7ca18;
+  color: white;
+  margin-top: -5px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.complete {
+  text-decoration: line-through;
+}
